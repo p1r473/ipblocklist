@@ -119,7 +119,6 @@
 # Custom
 # =========================
 170.114.0.0/16   #Zoom
-137.221.104.0/22 #Battle.net/Blizzard
 137.221.0.0/16   #Blizzard / Battle.net
 166.117.0.0/16   #Hybrid Networks (Blizzard/Battle.net)
 66.40.128.0/17   #Blizzard / Battle.net
