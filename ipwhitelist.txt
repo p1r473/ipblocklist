@@ -74,5 +74,4 @@
 # =========================
 170.114.0.0/16 #Zoom
 137.221.104.0/22 #Battle.net/Blizzard
-166.117.0.0/16 #Battle.net/Blizzard
-
+166.117.0.0/16 #Hybrid Networks (Blizzard/Battle.net)
