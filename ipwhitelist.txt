@@ -124,3 +124,4 @@
 66.40.128.0/17   #Blizzard / Battle.net
 91.198.51.0/24   #Blizzard / Battle.net
 38.90.226.0/24   #Blizzard / Battle.net
+169.150.219.0/24 #TradingView via Bunny.net CDN
