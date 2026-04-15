@@ -125,3 +125,4 @@
 91.198.51.0/24   #Blizzard / Battle.net
 38.90.226.0/24   #Blizzard / Battle.net
 169.150.219.0/24 #TradingView via Bunny.net CDN
+216.183.100.0/24 #Payworks
