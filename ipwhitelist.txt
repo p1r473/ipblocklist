@@ -125,14 +125,22 @@
 91.198.51.0/24    #Blizzard / Battle.net
 38.90.226.0/24    #Blizzard / Battle.net
 
+#Noorio
+47.77.0.0/21      #Noorio cloud on Ali
+47.88.31.164/32   #Noorio cloud on Ali
+
+#Apple
+17.253.21.0/24    #Apple aaplimg.com
+17.253.119.0/24   #Apple aaplimg.com
+17.253.3.0/24     #Apple aaplimg.com
+
+#Others
 170.114.0.0/16    #Zoom
 169.150.219.0/24  #TradingView via Bunny.net CDN
 216.183.100.0/24  #Payworks
 57.128.255.167/32 #OISD
 85.17.60.100/32   #dehakkelaar.nl adlists
-47.77.0.0/21      #Noorio hub / camera cloud
-17.253.21.0/24    #Apple aaplimg.com
 209.217.72.123/32 #Binary Fortress / ClipboardFusion
-162.125.21.0/24   #Dropbox
+162.125.0.0/16    #Dropbox
 216.239.32.0/24   #Google DNS / ns1.google.com
 162.254.192.0/24  #Steam / Valve
