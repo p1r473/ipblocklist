@@ -145,3 +145,4 @@
 216.239.32.0/24   #Google DNS / ns1.google.com
 162.254.192.0/24  #Steam / Valve
 216.239.36.21/32  #Google-hosted endpoint used by Canva / pdst.fm
+207.35.244.86/32  #InnPower
