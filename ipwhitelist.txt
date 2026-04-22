@@ -134,6 +134,10 @@
 17.253.119.0/24   #Apple aaplimg.com
 17.253.3.0/24     #Apple aaplimg.com
 
+#IPTV Canada
+172.110.220.62/32   #IPTV Canada
+185.193.88.130/32   #IPTV Canada
+
 #Others
 170.114.0.0/16    #Zoom
 169.150.219.0/24  #TradingView via Bunny.net CDN
