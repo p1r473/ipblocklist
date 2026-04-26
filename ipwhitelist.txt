@@ -166,3 +166,4 @@ fe80::/10           # IPv6 link-local
 216.239.36.21/32  #Google-hosted endpoint used by Canva / pdst.fm
 207.35.244.86/32  #InnPower
 38.90.226.0/24    #ESET
+78.46.156.195/32  #linux-tips-and-tricks.de
