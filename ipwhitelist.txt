@@ -83,8 +83,6 @@ fe80::/10           # IPv6 link-local
 # =========================
 # Public DNS Providers
 # =========================
-31.13.64.0/18
-
 # Google DNS
 8.8.8.8/32
 8.8.4.4/32
@@ -162,3 +160,4 @@ fe80::/10           # IPv6 link-local
 216.239.36.21/32  #Google-hosted endpoint used by Canva / pdst.fm
 207.35.244.86/32  #InnPower
 38.90.226.0/24    #ESET
+31.13.64.0/18     #Meta / Facebook
