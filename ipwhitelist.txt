@@ -85,9 +85,6 @@ fe80::/10           # IPv6 link-local
 # =========================
 31.13.64.0/18
 
-# =========================
-# Public DNS Providers
-# =========================
 # Google DNS
 8.8.8.8/32
 8.8.4.4/32
@@ -138,7 +135,6 @@ fe80::/10           # IPv6 link-local
 166.117.0.0/16    #Hybrid Networks (Blizzard/Battle.net)
 66.40.128.0/17    #Blizzard / Battle.net
 91.198.51.0/24    #Blizzard / Battle.net
-38.90.226.0/24    #Blizzard / Battle.net
 
 #Noorio
 47.77.0.0/21      #Noorio cloud on Ali
@@ -150,8 +146,8 @@ fe80::/10           # IPv6 link-local
 17.253.3.0/24     #Apple aaplimg.com
 
 #IPTV Canada
-172.110.220.62/32   #IPTV Canada
-185.193.88.130/32   #IPTV Canada
+172.110.220.62/32 #IPTV Canada
+185.193.88.130/32 #IPTV Canada
 
 #Others
 170.114.0.0/16    #Zoom
@@ -166,4 +162,3 @@ fe80::/10           # IPv6 link-local
 216.239.36.21/32  #Google-hosted endpoint used by Canva / pdst.fm
 207.35.244.86/32  #InnPower
 38.90.226.0/24    #ESET
-216.239.32.10/32  #Google DNS / ns1.google.com
