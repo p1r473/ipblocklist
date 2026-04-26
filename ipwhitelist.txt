@@ -149,7 +149,9 @@ fe80::/10           # IPv6 link-local
 
 #Meta
 31.13.64.0/18     #Meta / Facebook
-57.144.0.0/16     # Meta / WhatsApp
+57.144.0.0/16     #Meta / WhatsApp
+69.63.176.0/20    #Meta
+66.220.144.0/20   #Meta
 
 #Others
 170.114.0.0/16    #Zoom
