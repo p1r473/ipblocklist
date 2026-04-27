@@ -138,11 +138,6 @@ fe80::/10           # IPv6 link-local
 47.77.0.0/21      #Noorio cloud on Ali
 47.88.31.164/32   #Noorio cloud on Ali
 
-#Apple
-17.253.21.0/24    #Apple aaplimg.com
-17.253.119.0/24   #Apple aaplimg.com
-17.253.3.0/24     #Apple aaplimg.com
-
 #IPTV Canada
 172.110.220.62/32 #IPTV Canada
 185.193.88.130/32 #IPTV Canada
@@ -169,3 +164,4 @@ fe80::/10           # IPv6 link-local
 78.46.156.195/32  #linux-tips-and-tricks.de
 170.249.218.138   #emailtracker.website
 198.103.206.32/32 #gc.ca (Government of Canada)
+17.253.0.0/16     #Apple aaplimg.com
