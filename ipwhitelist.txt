@@ -167,3 +167,5 @@ fe80::/10           # IPv6 link-local
 207.35.244.86/32  #InnPower
 38.90.226.0/24    #ESET
 78.46.156.195/32  #linux-tips-and-tricks.de
+170.249.218.138   #emailtracker.website
+198.103.206.32/32 #gc.ca (Government of Canada)
