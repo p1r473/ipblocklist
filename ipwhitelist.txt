@@ -148,6 +148,10 @@ fe80::/10           # IPv6 link-local
 69.63.176.0/20    #Meta
 66.220.144.0/20   #Meta
 
+#Government of Canada
+205.193.0.0/16   #canada.ca (Government of Canada)
+198.103.0.0/16   #gc.ca (Government of Canada)
+
 #Others
 170.114.0.0/16    #Zoom
 169.150.219.0/24  #TradingView via Bunny.net CDN
@@ -163,5 +167,4 @@ fe80::/10           # IPv6 link-local
 38.90.226.0/24    #ESET
 78.46.156.195/32  #linux-tips-and-tricks.de
 170.249.218.138   #emailtracker.website
-198.103.206.32/32 #gc.ca (Government of Canada)
 17.253.0.0/16     #Apple aaplimg.com
