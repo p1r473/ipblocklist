@@ -168,3 +168,5 @@ fe80::/10           # IPv6 link-local
 78.46.156.195/32  #linux-tips-and-tricks.de
 170.249.218.138   #emailtracker.website
 17.253.0.0/16     #Apple aaplimg.com
+64.190.63.222/32  #Cardiogram
+159.223.168.3     #risinglink.com
