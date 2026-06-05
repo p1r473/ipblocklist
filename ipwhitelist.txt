@@ -170,3 +170,4 @@ fe80::/10           # IPv6 link-local
 17.253.0.0/16     #Apple aaplimg.com
 159.223.168.3     #risinglink.com
 160.79.104.10/32  #Claude (Anthropic)
+51.210.24.169/32  #yeggi.com
