@@ -137,45 +137,46 @@ fe80::/10           # IPv6 link-local
 #Custom
 #=========================
 #Blizzard / Battle.net
-137.221.0.0/16    #Blizzard / Battle.net
-166.117.0.0/16    #Hybrid Networks (Blizzard/Battle.net)
-66.40.128.0/17    #Blizzard / Battle.net
-91.198.51.0/24    #Blizzard / Battle.net
+137.221.0.0/16      #Blizzard / Battle.net
+166.117.0.0/16      #Hybrid Networks (Blizzard/Battle.net)
+66.40.128.0/17      #Blizzard / Battle.net
+91.198.51.0/24      #Blizzard / Battle.net
 
 #Noorio
-47.77.0.0/21      #Noorio cloud on Ali
-47.88.31.164/32   #Noorio cloud on Ali
+47.77.0.0/21        #Noorio cloud on Ali
+47.88.31.164/32     #Noorio cloud on Ali
 
 #IPTV Canada
-172.110.220.62/32 #IPTV Canada
-185.193.88.130/32 #IPTV Canada
+172.110.220.62/32   #IPTV Canada
+185.193.88.130/32   #IPTV Canada
 
 #Meta
-31.13.64.0/18     #Meta / Facebook
-57.144.0.0/16     #Meta / WhatsApp
-69.63.176.0/20    #Meta
-66.220.144.0/20   #Meta
+31.13.64.0/18       #Meta / Facebook
+57.144.0.0/16       #Meta / WhatsApp
+69.63.176.0/20      #Meta
+66.220.144.0/20     #Meta
 
 #Government of Canada
-205.193.0.0/16   #canada.ca (Government of Canada)
-198.103.0.0/16   #gc.ca (Government of Canada)
+205.193.0.0/16     #canada.ca (Government of Canada)
+198.103.0.0/16     #gc.ca (Government of Canada)
 
 #Others
-170.114.0.0/16    #Zoom
-169.150.219.0/24  #TradingView via Bunny.net CDN
-216.183.100.0/24  #Payworks
-57.128.255.167/32 #OISD
-85.17.60.100/32   #dehakkelaar.nl adlists
-209.217.72.123/32 #Binary Fortress / ClipboardFusion
-162.125.0.0/16    #Dropbox
-216.239.32.0/24   #Google DNS / ns1.google.com
-162.254.192.0/24  #Steam / Valve
-216.239.36.21/32  #Google-hosted endpoint used by Canva / pdst.fm
-207.35.244.86/32  #InnPower
-38.90.226.0/24    #ESET
-78.46.156.195/32  #linux-tips-and-tricks.de
-170.249.218.138   #emailtracker.website
-17.253.0.0/16     #Apple aaplimg.com
-159.223.168.3     #risinglink.com
-160.79.104.10/32  #Claude (Anthropic)
-51.210.24.169/32  #yeggi.com
+170.114.0.0/16      #Zoom
+169.150.219.0/24    #TradingView via Bunny.net CDN
+216.183.100.0/24    #Payworks
+57.128.255.167/32   #OISD
+85.17.60.100/32     #dehakkelaar.nl adlists
+209.217.72.123/32   #Binary Fortress / ClipboardFusion
+162.125.0.0/16      #Dropbox
+216.239.32.0/24     #Google DNS / ns1.google.com
+162.254.192.0/24    #Steam / Valve
+216.239.36.21/32    #Google-hosted endpoint used by Canva / pdst.fm
+207.35.244.86/32    #InnPower
+38.90.226.0/24      #ESET
+78.46.156.195/32    #linux-tips-and-tricks.de
+170.249.218.138     #emailtracker.website
+17.253.0.0/16       #Apple aaplimg.com
+159.223.168.3       #risinglink.com
+160.79.104.10/32    #Claude (Anthropic)
+51.210.24.169/32    #yeggi.com
+192.254.185.194/32  #caninecountrykennels.org
