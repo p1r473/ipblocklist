@@ -177,6 +177,7 @@ fe80::/10           # IPv6 link-local
 57.128.255.167/32   #OISD
 216.183.100.0/24    #Payworks
 159.223.168.3       #risinglink.com
+198.252.206.0/24    #Stack Exchange / Ask Ubuntu
 162.254.192.0/24    #Steam / Valve
 169.150.219.0/24    #TradingView via Bunny.net CDN
 51.210.24.169/32    #yeggi.com
