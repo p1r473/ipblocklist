@@ -160,13 +160,16 @@ fe80::/10           # IPv6 link-local
 205.193.0.0/16     #canada.ca (Government of Canada)
 198.103.0.0/16     #gc.ca (Government of Canada)
 
+#Entware
+158.160.45.54/32     #bin.entware.net / yacloud.entware.net
+80.74.145.140/32     #diversion.ch / entware.diversion.ch
+
 #Others
 17.253.0.0/16       #Apple aaplimg.com
 209.217.72.123/32   #Binary Fortress / ClipboardFusion
 192.254.185.194/32  #caninecountrykennels.org
 160.79.104.10/32    #Claude (Anthropic)
 85.17.60.100/32     #dehakkelaar.nl adlists
-80.74.145.140/32    #diversion.ch
 162.125.0.0/16      #Dropbox
 170.249.218.138     #emailtracker.website
 38.90.226.0/24      #ESET
