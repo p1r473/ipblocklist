@@ -1,0 +1,35 @@
+#=========================
+#Domain Whitelist
+#=========================
+# One hostname per line. Inline comments are allowed.
+# ipblocklist.sh clean resolves these names and writes only blocked IPv4
+# addresses into the managed section of ipwhitelist.txt.
+# A domain is removed when none of its current IPv4 addresses is blocked.
+# A DNS failure or blocklist download failure aborts the entire cleanup.
+
+#Entware mirrors
+bin.entware.net                 #Entware primary download hostname
+yacloud.entware.net             #Current bin.entware.net CNAME target
+entware.diversion.ch            #Entware Diversion mirror
+mirrors.cernet.edu.cn           #Entware Cernet mirror
+mirrors.bfsu.edu.cn             #Cernet redirect target
+
+#Applications and services
+api.clipboardfusion.com         #Binary Fortress / ClipboardFusion
+caninecountrykennels.org        #Canine Country Kennels
+claude.ai                       #Claude
+ct.canva.com                    #Canva tracking endpoint
+pdst.fm                         #Podcast tracking endpoint used by Canva links
+roomba.live                     #IPTV Canada
+
+#Blocklist and adlist providers
+dehakkelaar.nl                  #Adlist provider
+diversion.ch                    #Diversion
+big.oisd.nl                     #OISD big list
+small.oisd.nl                   #OISD small list
+www.linux-tips-and-tricks.de    #Linux tips and tricks lists
+
+#Other sites
+emailtracker.website            #Email tracker service
+risinglink.com                  #RisingLink
+yeggi.com                       #Yeggi
