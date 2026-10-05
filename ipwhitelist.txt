@@ -142,13 +142,21 @@ fe80::/10           # IPv6 link-local
 66.40.128.0/17      #Blizzard / Battle.net
 91.198.51.0/24      #Blizzard / Battle.net
 
-#Noorio
-47.77.0.0/21        #Noorio cloud on Ali
-47.88.31.164/32     #Noorio cloud on Ali
+#Entware
+158.160.45.54/32     #bin.entware.net / yacloud.entware.net
+80.74.145.140/32     #diversion.ch / entware.diversion.ch
 
 #IPTV Canada
 172.110.220.62/32   #IPTV Canada
 185.193.88.130/32   #IPTV Canada
+
+#Government of Canada
+205.193.0.0/16     #canada.ca (Government of Canada)
+198.103.0.0/16     #gc.ca (Government of Canada)
+
+#Little Lime Florals
+198.185.159.144/31  #Squarespace hosting
+198.49.23.144/31    #Squarespace hosting
 
 #Meta
 31.13.64.0/18       #Meta / Facebook
@@ -156,13 +164,9 @@ fe80::/10           # IPv6 link-local
 69.63.176.0/20      #Meta
 66.220.144.0/20     #Meta
 
-#Government of Canada
-205.193.0.0/16     #canada.ca (Government of Canada)
-198.103.0.0/16     #gc.ca (Government of Canada)
-
-#Entware
-158.160.45.54/32     #bin.entware.net / yacloud.entware.net
-80.74.145.140/32     #diversion.ch / entware.diversion.ch
+#Noorio
+47.77.0.0/21        #Noorio cloud on Ali
+47.88.31.164/32     #Noorio cloud on Ali
 
 #Others
 17.253.0.0/16       #Apple aaplimg.com
