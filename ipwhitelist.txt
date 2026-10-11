@@ -186,6 +186,7 @@ fe80::/10           # IPv6 link-local
 159.223.168.3       #risinglink.com
 198.252.206.0/24    #Stack Exchange / Ask Ubuntu
 162.254.192.0/24    #Steam / Valve
+37.1.215.156/32     #Sysracks.ca
 169.150.219.0/24    #TradingView via Bunny.net CDN
 64.69.24.0/23       #Workday / Medavie careers
 51.210.24.169/32    #yeggi.com
