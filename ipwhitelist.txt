@@ -190,5 +190,6 @@ fe80::/10           # IPv6 link-local
 169.150.219.0/24    #TradingView via Bunny.net CDN
 51.195.68.162/31    #WinRAR / RARLAB
 64.69.24.0/23       #Workday / Medavie careers
+98.91.9.204/32      #xSuit Find My Size / Bold Metrics API
 51.210.24.169/32    #yeggi.com
 170.114.0.0/16      #Zoom
